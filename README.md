@@ -11,11 +11,9 @@ This repository holds the papers, trial dataset, and transcripts for a research 
 - *Standing on a Trapdoor* — the empirical case: trial data, mechanism, and the IDK+COMP result.
 - *Taxonomy of AI Bullshit* — the coding system used to classify hallucination and hedging behavior across all trials.
 
-**Dataset**
-- Full trial data (Excel), covering hundreds of coded trials across baseline, OGS, COMPx, and OGS-IDK conditions.
+**Hallucination Test Suite and Execution Records**
+The test strings (prompts), activation blocks (used to impose governance conditions on the AI), trial data, and AI transcripts — provided for exploration of our governance mega-prompts and potential replication of the results reported in the Puma and Trapdoor papers.
 
-**Transcripts**
-- Complete, unedited AI conversation transcripts underlying the specimens quoted throughout the papers — included because the papers' evidence is the models' actual outputs, not a summary of them.
 
 ## Quick reference
 
