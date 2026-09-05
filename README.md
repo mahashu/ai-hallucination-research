@@ -12,7 +12,8 @@ This repository holds the papers, trial dataset, and transcripts for a research 
 - *Taxonomy of AI Bullshit* — the coding system used to classify hallucination and hedging behavior across all trials.
 
 **Hallucination Test Suite and Execution Records**
-The test strings (prompts), activation blocks (used to impose governance conditions on the AI), trial data, and AI transcripts — provided for exploration of our governance mega-prompts and potential replication of the results reported in the Puma and Trapdoor papers.
+- The test strings (prompts) and activation blocks (used to impose governance conditions on the AI), are provided for exploration of our governance mega-prompts and potential replication of the results reported in the Puma and Trapdoor papers. These are in Hallucination Test Suite.
+- Our data is recorded in the transcripts and excel files.
 
 
 ## Quick reference
