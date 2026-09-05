@@ -2,7 +2,7 @@
 
 Research on why large language models fabricate confident, false information, and what measurably reduces it.
 
-This repository holds the papers, trial dataset, and transcripts for a research project treating hallucination as a cost-structure and incentive problem, not a retrieval failure. Three frontier models — Gemini, ChatGPT, and Claude — were tested across multiple governance conditions, including a 19-word prompt intervention (IDK+COMP) that dropped hallucination rates by as much as 80% in testing.
+This repository holds the papers, trial dataset, and transcripts for a research project treating hallucination as a cost-structure and incentive problem, not a retrieval failure. Three frontier models — Gemini, ChatGPT, and Claude — were tested across multiple governance conditions, including a 19-word prompt intervention (IDK+COMP) that dropped hallucination rates markedly in testing.
 
 ## Contents
 
