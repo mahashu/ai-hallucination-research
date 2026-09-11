@@ -24,9 +24,6 @@ This repository holds the papers, trial dataset, and transcripts for a research 
 
 Just want the prompt, not the argument? See [mahashu/idk-plus-comp](https://github.com/mahashu/idk-plus-comp).
 
-## Citation
-
-Kowalski, M. M., Claude (Anthropic), ChatGPT (OpenAI), & Gemini (Alphabet Inc.). (2026). [Paper titles and details once finalized].
 
 ## Authorship
 
