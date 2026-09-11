@@ -6,14 +6,18 @@ This repository holds the papers, trial dataset, and transcripts for a research 
 
 ## Contents
 
-**Papers**
-- *A Puma in a Teacup* — the framework: signal quality, incentive restructuring, and the constraint set that produced the hallucination-suppression effect as a side finding.
-- *Standing on a Trapdoor* — the empirical case: trial data, mechanism, and the IDK+COMP result.
-- *Taxonomy of AI Hallucination and Hedging Categories* — the coding system used to classify hallucination and hedging behavior across all trials.
+### PAPERS
+*PAPERS AWAIT UPDATING (2026/09/10)*
+- Kowalski, M. et al. (2026). *A Puma in a Teacup*. https://github.com/mahashu/ai-hallucination-research/blob/main/A_Puma_in_a_Teacup_v5.10%20gitHub.pdf.
 
-**Hallucination Test Suite and Execution Records**
-- The test strings (prompts) and activation blocks (used to impose governance conditions on the AI), are provided for exploration of our governance mega-prompts and potential replication of the results reported in the Puma and Trapdoor papers. These are in Hallucination Test Suite.
-- Our data is recorded in the transcripts and excel files.
+- Kowalski, M. et al. (2026). *Standing on a Trapdoor* (which documents the IDK+COMP trials directly). https://github.com/mahashu/ai-hallucination-research/blob/main/Standing%20on%20a%20Trapdoor%20v6.8.pdf
+
+### TEST SUITE AND EXECUTION RECORDS
+- *Governance Activation Blocks & Hallucination Test Strings.docx*: https://github.com/mahashu/ai-hallucination-research/blob/main/Governance%20Activation%20Blocks%20%26%20Hallucination%20Test%20Strings%20v1.1.pdf
+
+- *Transcripts_H_ST_v1.1.pdf*: https://github.com/mahashu/ai-hallucination-research/blob/main/Transcripts_H_ST_v1.1.pdf
+
+- *Hallucination_Trials_v1.0.xlsx*: https://github.com/mahashu/ai-hallucination-research/blob/main/Hallucination_Trials_v1.0.xlsx
 
 
 ## Quick reference
