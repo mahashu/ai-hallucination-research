@@ -12,7 +12,7 @@ This repository holds the papers, trial dataset, and transcripts for a research 
 
 - Kowalski, M. et al. (2026). *Standing on a Trapdoor* (which documents the IDK+COMP trials directly). https://github.com/mahashu/ai-hallucination-research/blob/main/Standing%20on%20a%20Trapdoor%20v6.8.pdf
 
-### TEST SUITE AND EXECUTION RECORDS
+### HALLUCINATION TEST SUITE AND EXECUTION RECORDS
 - *Governance Activation Blocks & Hallucination Test Strings.docx*: https://github.com/mahashu/ai-hallucination-research/blob/main/Governance%20Activation%20Blocks%20%26%20Hallucination%20Test%20Strings%20v1.1.pdf
 
 - *Transcripts_H_ST_v1.1.pdf*: https://github.com/mahashu/ai-hallucination-research/blob/main/Transcripts_H_ST_v1.1.pdf
