@@ -15,7 +15,7 @@ This repository holds the papers, trial dataset, and transcripts for a research 
 ### HALLUCINATION TEST SUITE AND EXECUTION RECORDS
 - *Governance Activation Blocks & Hallucination Test Strings.docx*: https://github.com/mahashu/ai-hallucination-research/blob/main/Governance_Activation_Blocks_%26_Hallucination_Test_Strings_v1.1.pdf.
   
-- *Transcripts_H_ST_v1.1.pdf*: https://github.com/mahashu/ai-hallucination-research/blob/main/Transcripts_H_ST_v1.1.pdf.
+- *Transcript Files*
 
 - *Hallucination_Trials_v1.0_260420-Corpus*: https://github.com/mahashu/ai-hallucination-research/blob/main/Hallucination_Trials_v1.0_260420-Corpus.xlsx.
 
