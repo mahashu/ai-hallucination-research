@@ -7,7 +7,7 @@ This repository holds the papers, trial dataset, and transcripts for a research 
 ## Contents
 
 ### PAPERS
-*PAPERS AWAIT UPDATING (2026/09/10) -- to reflect our expanded trial corpus*
+* AWAIT UPDATING (2026/09/10) -- to reflect our expanded trial corpus*
 - Kowalski, M. et al. (2026). *A Puma in a Teacup*. https://github.com/mahashu/ai-hallucination-research/blob/main/A_Puma_in_a_Teacup_v5.12_260420-Corpus.pdf.
 
 - Kowalski, M. et al. (2026). *Standing on a Trapdoor* (which documents the IDK+COMP trials directly). https://github.com/mahashu/ai-hallucination-research/blob/main/Standing%20on%20a%20Trapdoor%20v6.8.pdf
