@@ -7,7 +7,7 @@ This repository holds the papers, trial dataset, and transcripts for a research 
 ## Contents
 
 ### PAPERS
-*PAPERS AWAIT UPDATING (2026/09/10) to reflect our expanded trial corpus*
+*PAPERS AWAIT UPDATING (2026/09/10)*
 - Kowalski, M. et al. (2026). *A Puma in a Teacup*. https://github.com/mahashu/ai-hallucination-research/blob/main/A_Puma_in_a_Teacup_v5.12_260420-Corpus.pdf.
 
 - Kowalski, M. et al. (2026). *Standing on a Trapdoor* (which documents the IDK+COMP trials directly). https://github.com/mahashu/ai-hallucination-research/blob/main/Standing%20on%20a%20Trapdoor%20v6.8.pdf
@@ -19,11 +19,11 @@ This repository holds the papers, trial dataset, and transcripts for a research 
 
 - *Hallucination_Trials_v1.0_260420-Corpus*: https://github.com/mahashu/ai-hallucination-research/blob/main/Hallucination_Trials_v1.0_260420-Corpus.xlsx.
 
-- */Hallucination_Trials_v2.37_260819-Corpus.xlsx* (4,240 trials, hand-coded, Excel): https://github.com/mahashu/ai-hallucination-research/blob/main/Hallucination_Trials_v2.38_260819-Corpus_dv1.11.xlsx
+- *HallucinationTrials_260819-Corpus_v2.38* (4,240 trials, hand-coded, Excel): https://github.com/mahashu/ai-hallucination-research/blob/main/Hallucination_Trials_v2.38_260819-Corpus_dv1.11.xlsx
 
-- *hallucination_trials_dataset_with_transcripts_v2.37_260819-Corpus.jsonl* (machine-readable: one trial per line, with codes, full conversation, and the model's response): https://github.com/mahashu/ai-hallucination-research/blob/main/hallucination_trials_dataset_dv1.11_with_transcripts.jsonl
+- *added: hallucination_trials_dataset__v2.38_260819-corpus_with_transcripts.jsonl* (machine-readable: one trial per line, with codes, full conversation, and the model's response): https://github.com/mahashu/ai-hallucination-research/blob/main/hallucination_trials_dataset_dv1.11_with_transcripts.jsonl
 
-- *DATA_DICTIONARY_v2.37_260819-Corpus_v1.0.md* (what every field and code means): https://github.com/mahashu/ai-hallucination-research/blob/main/DATA_DICTIONARY_v3.md
+- *DATA_DICTIONARY_v3.md* (what every field and code means): https://github.com/mahashu/ai-hallucination-research/blob/main/DATA_DICTIONARY_v3.md
 
 
 ## Quick reference
@@ -42,3 +42,5 @@ Claude, ChatGPT, and Gemini are credited as co-authors throughout this research.
 **The coding, analysis and conclusions are human-directed.** The researcher designed the trials and made the coding decisions. Every trial was coded and checked by hand, one at a time, across the six prompting conditions: Baseline (plain prompting), OGS (the full governance prompt), OGS-IDK (the governance prompt with the "I don't know" component removed), IDK+COMP ("say I don't know" plus a compression instruction), COMP1 and COMP2 (two rounds of the compression-only condition). AI assistance was used for tooling, cross-checks and drafting support.
 
 **How to cite this repository.** Cite the tagged GitHub Release. Do not cite individual model outputs as factual sources. They contain hallucinations, and cataloguing those is the point of the dataset.
+
+**Corrections.** Errors found after release are fixed in a new version-bumped release, and the change is noted in the changelog.
