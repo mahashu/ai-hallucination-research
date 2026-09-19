@@ -19,7 +19,7 @@ This repository holds the papers, trial dataset, and transcripts for a research 
 
 - *Hallucination_Trials_v1.0_260420-Corpus*: https://github.com/mahashu/ai-hallucination-research/blob/main/Hallucination_Trials_v1.0_260420-Corpus.xlsx.
 
-- *HallucinationTrials_260819-Corpus_v2.38* (4,240 trials, hand-coded, Excel): https://github.com/mahashu/ai-hallucination-research/blob/main/Hallucination_Trials_v2.38_260819-Corpus_dv1.11.xlsx
+- *HallucinationTrials_260819-Corpus_v2.38* (4,240 trials, hand-coded, Excel): https://github.com/mahashu/ai-hallucination-research/blob/main/Hallucination_Trials_260819-Corpus_v2.38.xlsx
 
 - *hallucination_trials_dataset__v2.38_260819-corpus_with_transcripts.jsonl* (machine-readable: one trial per line, with codes, full conversation, and the model's response): https://github.com/mahashu/ai-hallucination-research/blob/main/hallucination_trials_dataset_dv1.11_with_transcripts.jsonl
 
