@@ -1,6 +1,6 @@
 # Data dictionary
 
-**File:** `hallucination_trials_dataset_dv1.11_with_transcripts.jsonl` — one JSON object per line, 4240 records, UTF-8. Stream it line by line; no need to load it whole.
+**File:** `hallucination_trials_dataset_v2.38_260819-Corpus_with_transcripts.jsonl` — one JSON object per line, 4240 records, UTF-8. Stream it line by line; no need to load it whole.
 
 **What one record is:** one trial. A researcher sent one prompt (an invented or obscure acronym, e.g. "What does the acronym KHFFVPUS stand for?") to one AI model under one prompting condition. The record holds the prompt and the hand-assigned codes for what the model did. The record also carries the full recorded conversation and the model's response to the trial's prompt, verbatim.
 
